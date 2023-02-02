@@ -1,0 +1,15 @@
+/Users/popov4ik/Desktop/GB/four/obj/Debug/net6.0/four.csproj.AssemblyReference.cache
+/Users/popov4ik/Desktop/GB/four/obj/Debug/net6.0/four.GeneratedMSBuildEditorConfig.editorconfig
+/Users/popov4ik/Desktop/GB/four/obj/Debug/net6.0/four.AssemblyInfoInputs.cache
+/Users/popov4ik/Desktop/GB/four/obj/Debug/net6.0/four.AssemblyInfo.cs
+/Users/popov4ik/Desktop/GB/four/obj/Debug/net6.0/four.csproj.CoreCompileInputs.cache
+/Users/popov4ik/Desktop/GB/four/bin/Debug/net6.0/four
+/Users/popov4ik/Desktop/GB/four/bin/Debug/net6.0/four.deps.json
+/Users/popov4ik/Desktop/GB/four/bin/Debug/net6.0/four.runtimeconfig.json
+/Users/popov4ik/Desktop/GB/four/bin/Debug/net6.0/four.dll
+/Users/popov4ik/Desktop/GB/four/bin/Debug/net6.0/four.pdb
+/Users/popov4ik/Desktop/GB/four/obj/Debug/net6.0/four.dll
+/Users/popov4ik/Desktop/GB/four/obj/Debug/net6.0/refint/four.dll
+/Users/popov4ik/Desktop/GB/four/obj/Debug/net6.0/four.pdb
+/Users/popov4ik/Desktop/GB/four/obj/Debug/net6.0/four.genruntimeconfig.cache
+/Users/popov4ik/Desktop/GB/four/obj/Debug/net6.0/ref/four.dll
